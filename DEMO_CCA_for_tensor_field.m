@@ -1,4 +1,5 @@
 % CCA for tensor field based on MICCAI10 method
+setup
 clear
 close
 nsample = 10;

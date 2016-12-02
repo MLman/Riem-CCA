@@ -36,6 +36,7 @@
 
 %% Demos
 %% Riemannian CCA and Euc CCA
+setup
 clear;
 close;
 Ns =  [100 100 100 1000 1000 1000]; % number of samples
